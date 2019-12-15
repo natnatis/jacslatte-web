@@ -1,0 +1,7 @@
+Hello World!
+
+My name is Jacqueline Barranco. I am a student in WEBD 152: Beginning HTML and CSS. My purpose for creating this web site is to practice coding HTML and CSS to create a simple 3-page web site as part of WEBD 152. This class assignment web site will help me to design and build my final project web site.
+
+The primary audience for this web site is the Fall 2019 online 8-week WEBD 152 class. After using this web site, the audience will know about my proposed Final Project, and a little bit about me. 
+
+Please visit again later this semester as this assignment web site is developed!
