@@ -53,6 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 article {
     background-color: rgba(163, 66, 21, 0.068);
+    align-items: center;
 }
 aside {
     background-color: rgba(24, 13, 3, 0.068);
