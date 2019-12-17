@@ -98,3 +98,7 @@ h1, h2 {
     padding: .25em .5em;
     margin: .5em
 }
+#centerpicture {
+    display: flex;
+    justify-content: center; 
+}
